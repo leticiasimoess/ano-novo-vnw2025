@@ -1,12 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-Ano Novo 2025 - Projeto Web
+Ano Novo 2025 - Projeto Vai na web
 
 Este repositório contém a implementação de uma interface web para a celebração do Ano Novo de 2025, baseada no design fornecido no Figma. O projeto foi desenvolvido utilizando React e SASS.
 
