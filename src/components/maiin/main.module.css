@@ -1,0 +1,28 @@
+.main {
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 10%;
+}
+
+.conteinerBoasFestas {
+  width: 30%;
+  text-align: end;
+}
+.conteinerBoasFestas h3 {
+  font-size: 45px;
+  font-weight: 300;
+}
+.conteinerBoasFestas h2 {
+  font-size: 65px;
+  font-weight: 700;
+}
+.conteinerBoasFestas p {
+  font-size: 25px;
+}
+
+.conteinerPoema {
+  font-size: 20px;
+  line-height: 40.54px;
+}/*# sourceMappingURL=main.module.css.map */

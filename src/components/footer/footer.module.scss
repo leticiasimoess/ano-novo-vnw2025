@@ -1,0 +1,28 @@
+.footer {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 10vh;
+}
+
+.navFooter {
+    width: 30%;
+
+    ul {
+        width: 80%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    img {
+        width: 4vw;
+        border-radius: 50%;
+
+        &:hover{
+            box-shadow: #8dabff 0px 54px 55px, #8dabff 0px -12px 30px, #8dabff 0px 4px 6px, #8dabff 0px 12px 13px, #8dabff 0px -3px 5px;
+            color: #00229c;
+            transform: scale(1.2);
+            transition: 1s;
+        }
+    }
+}
